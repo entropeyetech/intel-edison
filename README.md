@@ -13,8 +13,12 @@ http://www.kurk.lt/projects/autostart-node-js-apps-on-Intel-Edison
 - UPM & MRAA Groove Sensors Libraries
 https://github.com/intel-iot-devkit
 
-- SourceCode for WebCam Stream via WebSockets
+- Source for WebCam Stream via WebSockets
 https://github.com/drejkim/edi-cam
+https://github.com/m1c0l/edison-cam
+https://www.ffmpeg.org
+https://medium.com/google-cloud/experimenting-with-googles-cloud-vision-api-intel-edison-8f28501937b0
+
 
 
 
