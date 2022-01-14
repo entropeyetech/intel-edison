@@ -20,7 +20,7 @@ Clone Intel Edison Repo (Libraries Etc.)
 (https://www.ffmpeg.org)
 (https://medium.com/google-cloud/experimenting-with-googles-cloud-vision-api-intel-edison-8f28501937b0)
 
-(https://github.com/intel-iot-devkit=
+(https://github.com/intel-iot-devkit)
 > UPM & MRAA Groove Sensors Libraries
 ```
 opkg update
