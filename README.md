@@ -15,10 +15,10 @@ Clone Intel Edison Repo (Libraries Etc.)
 
 
 > Source for WebCam Stream via WebSockets
-(https://github.com/drejkim/edi-cam)
-(https://github.com/m1c0l/edison-cam)
-(https://www.ffmpeg.org)
-(https://medium.com/google-cloud/experimenting-with-googles-cloud-vision-api-intel-edison-8f28501937b0)
+- (https://github.com/drejkim/edi-cam)
+- (https://github.com/m1c0l/edison-cam)
+- (https://www.ffmpeg.org)
+- (https://medium.com/google-cloud/experimenting-with-googles-cloud-vision-api-intel-edison-8f28501937b0)
 
 (https://github.com/intel-iot-devkit)
 > UPM & MRAA Groove Sensors Libraries
